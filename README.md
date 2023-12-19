@@ -4,8 +4,8 @@ Welcome to the Disease Prediction Project repository! This project addresses the
 
 ## Dependencies
 
-- `Python 3.x`
-- `NetworkX`
+- `Python 3.x` 
+- `NetworkX` 
 - `Pandas`
 - `Numpy`
 - `Scikit-learn`
@@ -58,4 +58,4 @@ Feel free to explore the detailed documentation and analysis in the repository, 
 
 ## License
 
-This project is licensed under the [Your License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
