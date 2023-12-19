@@ -24,16 +24,25 @@ In the dynamic field of healthcare, understanding the complex interactions betwe
 
 ## Network Type
 
-Given the symptoms and diseases data we opted for a bipartite graph representing them. ![Bipartite](report/images/network.png)
+Given the symptoms and diseases data we opted for a bipartite graph representing them. 
+
+![Bipartite](report/images/network.png)
 
 ## Operational Flow for the Model
 
-The operational flow involves feature extraction, model training, and complexity reduction. Models are trained using a combination of symptoms and other features, and complexity reduction is applied to retain relevant features. ![Operational Flow Chart](report/images/operational_flow.png)
+The operational flow involves feature extraction, model training, and complexity reduction. Models are trained using a combination of symptoms and other features, and complexity reduction is applied to retain relevant features. 
+
+![Operational Flow Chart](report/images/operational_flow.png)
 
 ## Results
 
-- **Goal 1:** New features offer comparable performance to symptoms alone. ![New Features](report/images/acc_best_models.png)
-- **Goal 2:** Feature reduction achieves a trade-off between accuracy and data reduction, with a 9.39% reduction in training time. ![Features Reduction](report/images/features_vs_time.png)
+- **Goal 1:** New features offer comparable performance to symptoms alone.
+
+![New Features](report/images/acc_best_models.png)
+
+- **Goal 2:** Feature reduction achieves a trade-off between accuracy and data reduction, with a 9.39% reduction in training time.
+
+![Features Reduction](report/images/features_vs_time.png)
 
 ## Conclusion
 
